@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Appenerg.iml" filepath="$PROJECT_DIR$/.idea/modules/Appenerg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Appenerg.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Appenerg.app.iml" />
+    </modules>
+  </component>
+</project>
